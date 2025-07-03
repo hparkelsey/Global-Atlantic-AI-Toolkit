@@ -1,2 +1,2 @@
-# CL_Sentiment_Analysis
-Sentiment analysis tool for Crestline Investors using NLTK and React Native front-end
+# Global_Atlantic_AI_Toolkit
+Natural Language Processing Toolkit using NLTK and React Native front-end
